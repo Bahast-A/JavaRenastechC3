@@ -1,0 +1,34 @@
+//byte = is used for up to 100s
+//short = is used for up to 32,000
+//int = is used for up to 2.1b
+//long = is used for up to 1 trillion+ but have to add an "L" to the end of the number
+//float = (Adds Decimals ) up to 6 digits
+//double = (Adds Decimals) up to 15 digits
+//Char = is used for 1 letter at a time like so Char c1='a';
+//boolean = assigns a true or false statement
+// if you want --    = you do double == that means its equal to
+// != means not equal to or better way to say is you can add that to w/e and make it the opposite
+// psvm +tab key - shortcut for public static void main(String[] args){   }
+// sout +tab key - shorcut for System.out.print();
+
+// example =   \t: paragraph space
+// example =  \n: new line
+// example =  \": prints double quote " on the console
+// example = \\: prints \ on the console
+// example =  \': prints single quote
+// example =  ' : prints single quote
+
+
+//String = is used for assigning specific words and stuff to a variable -
+// examples of string - String b1=shit;
+
+
+//object = from what i understand it can add specific tasks in java together? or use it to run multiple things?
+// examples -
+
+// how to start any java code - public static void main(String[] args){
+//                    }
+// how to print/run the code you write - System.out.println("");   - quotes for texts - "ln" to make seperate line
+// how to print/run the code you write - System.out.print("") have no "ln" and it will write on the same line
+//add plus signs inside the print output section to put in specific variable around a text
+// example - System.out.println("Bahast is a"+(b1)+"");
