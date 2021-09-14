@@ -15,12 +15,7 @@ public class c2_comments {
      */
 
 
-
-
     }
-
-
-
 
 
 }

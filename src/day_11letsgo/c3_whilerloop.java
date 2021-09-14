@@ -5,7 +5,7 @@ public class c3_whilerloop {
 
         //structure of for loop
 
-        for (int i = 0 ; i <100 ; i++){
+        for (int i = 0; i < 100; i++) {
             //starting point int i = 0   // initilization
             //ending point i <100        // condition
             //iteration  i++             // iteration
@@ -21,21 +21,21 @@ public class c3_whilerloop {
 
         int i = 0; // initilization
 
-        while (i<11){// condition//0 1
+        while (i < 11) {// condition//0 1
             System.out.println("Hello World" + i);//0 1
             i++;// iteration
         }
 
-        int number1=5;
-        while (number1 > 0){ //5 4 3 2 1
+        int number1 = 5;
+        while (number1 > 0) { //5 4 3 2 1
 
             number1--;//4 3 2 1 0
             System.out.println(number1);//4 3 2 1 0
         }
 
         System.out.println("****************");
-        int number2=5;
-        while (number2 > 0){ //5 4 3 2 1
+        int number2 = 5;
+        while (number2 > 0) { //5 4 3 2 1
             System.out.println(number2);//5 4 3 2 1
             number2--;//4 3 2 1 0
         }

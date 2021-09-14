@@ -11,20 +11,20 @@ public class c2_javapracticerere {
 //excpected result : // 1  2    3    4    5   6 ...50
         // 1  JA   VA   JA   5  JAVA
 
-        String result="";//just empty string to store all result
+        String result = "";//just empty string to store all result
 
         //starting point is 1
         //ending point is 50
         //iteration ++
-        for (int i =1; i < 51 ; i++){ //6
+        for (int i = 1; i < 51; i++) { //6
 
-            if (i%2 ==0 && i%3==0){
-                result +="JAVA ";
-            }else if (i %3==0){
-                result +="VA ";
-            }else if (i %2 ==0){
-                result +="JA ";
-            }else{
+            if (i % 2 == 0 && i % 3 == 0) {
+                result += "JAVA ";
+            } else if (i % 3 == 0) {
+                result += "VA ";
+            } else if (i % 2 == 0) {
+                result += "JA ";
+            } else {
                 result += i + " ";
             }
         }

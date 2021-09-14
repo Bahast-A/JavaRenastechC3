@@ -6,7 +6,7 @@ public class assignmentstuffer23 {
     public static void main(String[] args) {
         //Create a Java Program to Print an Integer (Entered by the User)
 
-        Scanner firas= new Scanner(System.in);
+        Scanner firas = new Scanner(System.in);
         //q1
 //        System.out.println("Enter Number");
 //        int a = firas.nextInt();
@@ -28,13 +28,12 @@ public class assignmentstuffer23 {
 //        System.out.println(b*b1);
 
         //q4
-        char ch='B';
-        int asciiValue=ch;
+        char ch = 'B';
+        int asciiValue = ch;
         System.out.println(asciiValue);
 
-        int i=17;
-        System.out.println("quotient  "+i/3+"  Remainder is "+i%3);
-
+        int i = 17;
+        System.out.println("quotient  " + i / 3 + "  Remainder is " + i % 3);
 
 
     }

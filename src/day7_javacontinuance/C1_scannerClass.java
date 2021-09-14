@@ -6,12 +6,11 @@ public class C1_scannerClass {
     public static void main(String[] args) {
 
 
-
-        Scanner input=new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.println("Insert your byte number");
-        byte b1= input.nextByte();
+        byte b1 = input.nextByte();
         System.out.println(b1);
-        int numberint=input.nextInt();
-        System.out.println("Number int is "+numberint);
+        int numberint = input.nextInt();
+        System.out.println("Number int is " + numberint);
     }
 }

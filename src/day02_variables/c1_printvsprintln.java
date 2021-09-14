@@ -2,7 +2,7 @@ package day02_variables;
 
 public class c1_printvsprintln {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         //first line
         System.out.println("This is println"); //println will break the current line
 
@@ -27,10 +27,7 @@ public class c1_printvsprintln {
         System.out.println("println3");
 
 
-
-
     }
-
 
 
 }

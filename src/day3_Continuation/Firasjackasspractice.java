@@ -1,23 +1,21 @@
 package day3_Continuation;
 
-import java.sql.SQLOutput;
-
 public class Firasjackasspractice {
     public static void main(String[] args) {
         System.out.println();
-        int x= 10; int y=x+7; int z=y+8;
-        boolean bol1= x%2 == 0;
-        boolean bol2= x%3 == 0;
-        boolean bol3= x%5 == 0;
+        int x = 10;
+        int y = x + 7;
+        int z = y + 8;
+        boolean bol1 = x % 2 == 0;
+        boolean bol2 = x % 3 == 0;
+        boolean bol3 = x % 5 == 0;
 
-        System.out.println(x+ " is divisible by 2 "+bol1);
-        System.out.println(x+ " is divisible by 3 "+bol2);
-        System.out.println(x+ " is divisible by 5 "+bol3);
+        System.out.println(x + " is divisible by 2 " + bol1);
+        System.out.println(x + " is divisible by 3 " + bol2);
+        System.out.println(x + " is divisible by 5 " + bol3);
 
 
     }
-
-
 
 
 }

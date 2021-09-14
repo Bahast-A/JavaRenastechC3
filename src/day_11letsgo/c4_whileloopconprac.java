@@ -7,9 +7,9 @@ public class c4_whileloopconprac {
         // *********************  20 star
         System.out.println("*****");
 
-        int i=1;
+        int i = 1;
 
-        while (i <= 20 ){
+        while (i <= 20) {
             System.out.print("*");
             i++;
         }
@@ -30,13 +30,13 @@ public class c4_whileloopconprac {
 
         System.out.println();
 
-        int nmbr=1; //6 times
+        int nmbr = 1; //6 times
         System.out.println("****");
         // System.out.println("*  *");//6 times
 
         while (nmbr < 7) { // 1 to 6
             System.out.println("*  *");// 6 times
-            nmbr ++;
+            nmbr++;
         }
         System.out.println("****");
 
